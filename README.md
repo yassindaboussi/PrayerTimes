@@ -11,9 +11,9 @@ This is a muslim prayer times 🕌 app 📱 according to any location in the wor
     <div align="center">
      <img  width = "200px" src ="1.jpg"/>
       <img  width = "200px" src="2.jpg" />
-      <img  height="200px" src="3.jpg"/>
+      <img  height="433px" src="3.jpg"/>
+      <img  width = "200px" src ="4.jpg"/>
       <br>
-       <img  width = "200px" src ="4.jpg"/>
     </div>
 </p>
 

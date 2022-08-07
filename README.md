@@ -1,6 +1,6 @@
 <div id="top"></div>
 <h1 align="center"> PrayerTimes 🕌 </h1>
-This is a muslim prayer times 🕌 app 📱 according to any location in the world 🌎.
+This is a muslim ☪️️ prayer times 🕌 app 📱 according to any location in the world 🌎.
 <br/>
 😇" API based on : https://aladhan.com "😇<br/> 
 <br/>

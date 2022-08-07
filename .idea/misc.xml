@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/drawable-v24/bg_rounded.xml" value="0.104" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/drawable-v24/gradiantcolor.xml" value="0.1805" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/drawable-v24/gradient.xml" value="0.1805" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/drawable-v24/green.xml" value="0.1805" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.104" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/drawable-v24/whitebg_rounded.xml" value="0.104" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/drawable/roundedcadre.xml" value="0.1805" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/layout/informations.xml" value="0.264" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/layout/noconnection.xml" value="0.536" />
+        <entry key="..\:/Users/yassin/Desktop/PrayerTimes/app/src/main/res/layout/prayertimes.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
